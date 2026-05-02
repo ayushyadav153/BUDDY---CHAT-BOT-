@@ -1,0 +1,6 @@
+{
+  "name": "Buddy - Success Coach Voice Agent",
+  "description": "A Gemini Live API voice app functioning as an academic success coach for Ayush Yadav, offering tutoring and problem-solving through spoken dialogue.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
